@@ -23,12 +23,12 @@ const solucoes = [
       "Emissão e gestão de boletos bancários com registro automático.",
     features: ["Registro instantâneo", "Baixa automática", "Múltiplos bancos"],
   },
-  {
-    icon: CreditCard,
-    title: "Cartões",
-    description: "Aceite todas as bandeiras de crédito e débito com segurança.",
-    features: ["Taxas competitivas", "Antecipação", "Link de pagamento"],
-  },
+  // {
+  //   icon: CreditCard,
+  //   title: "Cartões",
+  //   description: "Aceite todas as bandeiras de crédito e débito com segurança.",
+  //   features: ["Taxas competitivas", "Antecipação", "Link de pagamento"],
+  // },
   {
     icon: ArrowRightLeft,
     title: "Transferências",
@@ -46,12 +46,12 @@ const solucoes = [
     description: "Soluções completas para vendas pelo celular e tablet.",
     features: ["App nativo", "SDK fácil", "Checkout mobile"],
   },
-  {
-    icon: Globe,
-    title: "Internacional",
-    description: "Receba e envie pagamentos em diferentes moedas.",
-    features: ["Câmbio competitivo", "Swift", "Múltiplas moedas"],
-  },
+  // {
+  //   icon: Globe,
+  //   title: "Internacional",
+  //   description: "Receba e envie pagamentos em diferentes moedas.",
+  //   features: ["Câmbio competitivo", "Swift", "Múltiplas moedas"],
+  // },
 ];
 
 const Solucoes = () => {
