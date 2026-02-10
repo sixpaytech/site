@@ -40,6 +40,7 @@ const solucoes = [
   //     "Confirmação em tempo real",
   //   ],
   // },
+  //
   {
     icon: Smartphone,
     title: "Pagamentos Mobile",
