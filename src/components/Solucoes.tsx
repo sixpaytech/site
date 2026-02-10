@@ -29,17 +29,17 @@ const solucoes = [
   //   description: "Aceite todas as bandeiras de crédito e débito com segurança.",
   //   features: ["Taxas competitivas", "Antecipação", "Link de pagamento"],
   // },
-  {
-    icon: ArrowRightLeft,
-    title: "Transferências",
-    description:
-      "TED e DOC para seus fornecedores e parceiros de forma simples.",
-    features: [
-      "Lote de pagamentos",
-      "Agendamento",
-      "Confirmação em tempo real",
-    ],
-  },
+  // {
+  //   icon: ArrowRightLeft,
+  //   title: "Transferências",
+  //   description:
+  //     "TED e DOC para seus fornecedores e parceiros de forma simples.",
+  //   features: [
+  //     "Lote de pagamentos",
+  //     "Agendamento",
+  //     "Confirmação em tempo real",
+  //   ],
+  // },
   {
     icon: Smartphone,
     title: "Pagamentos Mobile",
