@@ -44,7 +44,7 @@ const Hero = () => {
             </Button>
           </div>
 
-          <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8">
+          {/* <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8">
             <div>
               <div className="text-3xl md:text-4xl font-bold text-primary mb-2">
                 R$ 50Bi+
@@ -73,7 +73,7 @@ const Hero = () => {
               </div>
               <div className="text-sm text-muted-foreground">Suporte</div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
