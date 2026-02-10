@@ -108,7 +108,7 @@ const Seguranca = () => {
                 </p>
               </CardContent>
             </Card>
-
+            {/* 
             <Card className="bg-card border-primary/20">
               <CardContent className="p-6">
                 <div className="flex items-center gap-4 mb-4">
@@ -126,7 +126,7 @@ const Seguranca = () => {
                   Seus recursos protegidos pelo FGC
                 </p>
               </CardContent>
-            </Card>
+            </Card> */}
           </div>
         </div>
       </div>
