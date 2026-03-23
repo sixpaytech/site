@@ -1,4 +1,4 @@
-const Index = () => {
+const PrivacyPolicy = () => {
   return (
     <div className="min-h-screen">
       <div className="w-full h-[800px]">
@@ -11,4 +11,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default PrivacyPolicy;
