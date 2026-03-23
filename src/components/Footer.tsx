@@ -124,15 +124,23 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
             <p>© 2024 6Pay. Todos os direitos reservados.</p>
             <div className="flex gap-6">
-              <a href="#" className="hover:text-primary transition-colors">
+              <a
+                href="/termos_de_uso"
+                className="hover:text-primary transition-colors"
+                target="_blank"
+              >
                 Termos de Uso
               </a>
-              <a href="#" className="hover:text-primary transition-colors">
+              <a
+                href="/politica_privacidade"
+                className="hover:text-primary transition-colors"
+                target="_blank"
+              >
                 Política de Privacidade
               </a>
-              <a href="#" className="hover:text-primary transition-colors">
+              {/* <a href="#" className="hover:text-primary transition-colors">
                 Segurança
-              </a>
+              </a> */}
             </div>
           </div>
         </div>

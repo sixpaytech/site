@@ -49,7 +49,13 @@ const Header = () => {
           </nav>
 
           <div className="hidden md:flex items-center gap-4">
-            <Button variant="outline">Entrar</Button>
+            <a
+              href="https://finance.6pay.com.br"
+              className="hover:text-primary transition-colors"
+              target="_blank"
+            >
+              <Button variant="outline">Entrar</Button>
+            </a>
             <Button variant="hero">Abrir Conta</Button>
           </div>
 
@@ -91,9 +97,15 @@ const Header = () => {
                 Contato
               </button>
               <div className="flex flex-col gap-2 pt-2">
-                <Button variant="outline" className="w-full">
-                  Entrar
-                </Button>
+                <a
+                  href="https://finance.6pay.com.br"
+                  className="hover:text-primary transition-colors"
+                  target="_blank"
+                >
+                  <Button variant="outline" className="w-full">
+                    Entrar
+                  </Button>
+                </a>
                 <Button variant="hero" className="w-full">
                   Abrir Conta
                 </Button>
