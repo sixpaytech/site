@@ -106,6 +106,7 @@ const Header = () => {
                     Entrar
                   </Button>
                 </a>
+
                 <Button variant="hero" className="w-full">
                   Abrir Conta
                 </Button>
