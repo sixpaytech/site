@@ -3,7 +3,7 @@ const Index = () => {
     <div className="min-h-screen">
       <div className="w-full h-[800px]">
         <iframe
-          src="/public/Termos_de_Uso_Credenciamento_6PAY.docx.pdf"
+          src="/Termos_de_Uso_Credenciamento_6PAY.docx.pdf"
           className="w-full h-full"
         />
       </div>
