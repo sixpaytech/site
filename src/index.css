@@ -101,3 +101,37 @@ All colors MUST be HSL.
     font-weight: 700;
   }
 }
+
+
+.privacy-policy {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  line-height: 1.7;
+  color: #1f2937;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 30px;
+  font-weight: 700;
+}
+
+h2 {
+  margin-top: 32px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+h3 {
+  margin-top: 18px;
+  font-size: 18px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 6px;
+}
